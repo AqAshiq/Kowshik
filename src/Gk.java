@@ -13,6 +13,11 @@ public class Gk {
 		public void m3() {
 		    System.out.println("cccccccc");
 			}
+		
+		public void name() {
+
+			System.out.println("aq");
+		}
 
 	}
 
