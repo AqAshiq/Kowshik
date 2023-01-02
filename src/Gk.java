@@ -14,6 +14,10 @@ public class Gk {
 		    System.out.println("cccccccc");
 			}
 
+		public void atti() {
+		System.out.println("Kotiii");
+
+		}
 	}
 
 
